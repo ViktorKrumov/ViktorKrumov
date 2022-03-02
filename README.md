@@ -8,10 +8,9 @@
 
 <section>
   <img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
+  <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
   </section>
-<img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
 
 ### Languages and Tools:
 
