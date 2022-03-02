@@ -1,4 +1,4 @@
-### <br>Hi, I'm Viktor Krumov 👋
+### Hi, I'm Viktor Krumov 👋
 
 - 🔭 I’m currently working on myself :D
 - 🌱 I’m currently learning C#, JS, SQL, HTML
