@@ -5,7 +5,7 @@
 - 💬 Ask me about my AnimeList
 - 📫 How to reach me: vikidkrumov@gmail.com
 - ⚡ Fun fact: gamer and programmer
-<img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&&show_icons=true&&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
 
 ### Languages and Tools:
