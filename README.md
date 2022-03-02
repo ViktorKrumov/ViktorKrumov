@@ -7,7 +7,7 @@
 - ⚡ Fun fact: gamer and programmer
 
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true"> 
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
+    <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
  
   
  
