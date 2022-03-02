@@ -10,7 +10,7 @@
     <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
  
   
- 
+ <br>
 
 ### Languages and Tools:
 
