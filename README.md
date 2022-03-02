@@ -8,8 +8,8 @@
 
 <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true">
-    <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true">
+   <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
     
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <img scr="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
