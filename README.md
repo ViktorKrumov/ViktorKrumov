@@ -6,6 +6,7 @@
 - 📫 How to reach me: vikidkrumov@gmail.com
 - ⚡ Fun fact: gamer and programmer
 <img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&&show_icons=true&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorKrumov)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
