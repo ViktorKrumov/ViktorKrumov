@@ -8,10 +8,9 @@
 
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true">
     <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
- 
+  <img src="![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)">
   
- <br>
-<br>
+ 
 
 ### Languages and Tools:
 
