@@ -7,8 +7,12 @@
 - ⚡ Fun fact: gamer and programmer
 
 <section>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true"> 
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact)](https://github.com/ViktorKrumov/github-readme-stats">
+  </div>
   </section>
 
 ### Languages and Tools:
