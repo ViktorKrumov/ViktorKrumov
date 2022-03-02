@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ViktorKrumov/ViktorKrumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi, I'm Viktor Krumov 👋
 
 - 🔭 I’m currently working on self development
 - 🌱 I’m currently learning C#, JS, SQL, HTML
