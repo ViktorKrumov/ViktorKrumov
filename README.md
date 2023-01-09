@@ -1,6 +1,6 @@
 ### Hi, I'm Viktor Krumov 👋
 
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
+<img align="right" src="https://user-images.githubusercontent.com/80381396/211292496-c728a32f-49a6-46d9-b5c1-6f1f8df5d605.jpg">
 
 - 🔭 I’m currently working on myself :D
 - 🌱 I’m currently learning C#, JS, SQL, HTML
