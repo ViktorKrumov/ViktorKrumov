@@ -2,9 +2,12 @@
 
 - 🔭 I’m currently working on myself :D
 - 🌱 I’m currently learning C#, JS, SQL, HTML
-- 💬 Ask me about my AnimeList                     ![Ku4i](https://user-images.githubusercontent.com/80381396/211291583-b483c497-2313-48e1-84aa-479b5420f45f.jpg)
+- 💬 Ask me about my AnimeList
 - 📫 How to reach me: vikidkrumov@gmail.com
 - ⚡ Fun fact: gamer and programmer
+
+
+![Ku4i](https://user-images.githubusercontent.com/80381396/211291583-b483c497-2313-48e1-84aa-479b5420f45f.jpg)
 
 <img align = "left" src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align ="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
