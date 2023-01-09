@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on myself :D
 - 🌱 I’m currently learning C#, JS, SQL, HTML
-- 💬 Ask me about my AnimeList
+- 💬 Ask me about my AnimeList                     ![Ku4i](https://user-images.githubusercontent.com/80381396/211291583-b483c497-2313-48e1-84aa-479b5420f45f.jpg)
 - 📫 How to reach me: vikidkrumov@gmail.com
 - ⚡ Fun fact: gamer and programmer
 
@@ -32,7 +32,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 
-![Ku4i](https://user-images.githubusercontent.com/80381396/211291583-b483c497-2313-48e1-84aa-479b5420f45f.jpg)
+
 
 
 
