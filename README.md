@@ -7,7 +7,7 @@
 - ⚡ Fun fact: gamer and programmer
 
 
-![Ku4i](https://user-images.githubusercontent.com/80381396/211291583-b483c497-2313-48e1-84aa-479b5420f45f.jpg)
+![Ku4i2](https://user-images.githubusercontent.com/80381396/211292496-c728a32f-49a6-46d9-b5c1-6f1f8df5d605.jpg)
 
 <img align = "left" src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align ="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
