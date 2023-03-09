@@ -18,7 +18,7 @@
 
 
    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ViktorKrumov&theme=tokyonight&show_icons=true">
-   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&layout=compact">
+   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrumov&theme=tokyonight&layout=compact">
    
    
    <img align="left" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
